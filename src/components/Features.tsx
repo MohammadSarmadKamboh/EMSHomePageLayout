@@ -1,5 +1,5 @@
-import deuploadFileSharing2 from "../assets/deuploadFileSharing2.png";
-import deuploadFileRequest1 from "../assets/deuploadFileRequest1.png";
+import deuploadFileSharing2 from "../../public/deuploadFileSharing2.png";
+import deuploadFileRequest1 from "../../public/deuploadFileRequest1.png";
 
 const FeatureSections = [
   {

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import checkMark from "../assets/checkMark.png";
+import checkMark from "../../public/checkMark.png";
 import Button from "./Button";
 
 const plans = {
@@ -150,7 +150,7 @@ const PricingPlan = () => {
         </div>
       </div>
 
-      <div className="bg-[url('src/assets/Ellipse11.png')] bg-no-repeat  bg-[right_-6rem_bottom_0rem]">
+      <div className="bg-[url('../../public/Ellipse11.png')] bg-no-repeat  bg-[right_-6rem_bottom_0rem]">
         {/* <img
           src={ellipseImage}
           alt="Ellipse Image"

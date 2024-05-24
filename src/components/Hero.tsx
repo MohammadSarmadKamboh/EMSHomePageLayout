@@ -1,5 +1,5 @@
-import deupoadFeatureScreen1 from "../assets/deupoadFeatureScreen1.png";
-import deuploadFeatureMobile2 from "../assets/deuploadFeatureMobile2.png";
+import deupoadFeatureScreen1 from "../../public/deupoadFeatureScreen1.png";
+import deuploadFeatureMobile2 from "../../public/deuploadFeatureMobile2.png";
 import Button from "./Button";
 
 const Hero = () => {

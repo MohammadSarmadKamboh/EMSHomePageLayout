@@ -1,7 +1,7 @@
-import userTieHair1 from "../assets/userTieHair1.png";
-import arrowRightLong1 from "../assets/arrowRightLong1.png";
-import buildings1 from "../assets/buildings1.png";
-import arrowRightLong2 from "../assets/arrowRightLong2.png";
+import userTieHair1 from "/userTieHair1.png";
+import arrowRightLong1 from "/arrowRightLong1.png";
+import buildings1 from "/buildings1.png";
+import arrowRightLong2 from "/arrowRightLong2.png";
 
 const sections = [
   {

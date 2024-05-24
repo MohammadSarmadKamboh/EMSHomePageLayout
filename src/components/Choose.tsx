@@ -1,7 +1,7 @@
-import circleNodes2 from "../assets/circleNodes2.png";
-import arrowRightLong3 from "../assets/arrowRightLong3.png";
-import shieldKeyhole2 from "../assets/shieldKeyhole2.png";
-import block1 from "../assets/block1.png";
+import circleNodes2 from "../../public/circleNodes2.png";
+import arrowRightLong3 from "../../public/arrowRightLong3.png";
+import shieldKeyhole2 from "../../public/shieldKeyhole2.png";
+import block1 from "../../public/block1.png";
 
 const chooseData = [
   {

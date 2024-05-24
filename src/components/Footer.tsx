@@ -1,11 +1,11 @@
-import GDPRcompliant from "../assets/GDPRcompliant.png";
-import nortonBySymantec from "../assets/nortonBySymantec.png";
-import stripe from "../assets/stripe.png";
-import payPal from "../assets/payPal.png";
-import Facebook from "../assets/Facebook.png";
-import Twitter from "../assets/Twitter.png";
-import Youtube from "../assets/Youtube.png";
-import Medium from "../assets/Medium.png";
+import GDPRcompliant from "../../public/GDPRcompliant.png";
+import nortonBySymantec from "../../public/nortonBySymantec.png";
+import stripe from "../../public/stripe.png";
+import payPal from "../../public/payPal.png";
+import Facebook from "../../public/Facebook.png";
+import Twitter from "../../public/Twitter.png";
+import Youtube from "../../public/Youtube.png";
+import Medium from "../../public/Medium.png";
 import { ImagesAndIconsProps } from "../types/interfaces";
 
 const ImagesAndIcons: React.FC<ImagesAndIconsProps> = ({ type }) => {
@@ -74,7 +74,7 @@ const navigationDataFooterSection = [
 
 const Footer = () => {
   return (
-    <footer className="flex flex-col bg-footerBGColor px-10 py-10 [@media(max-width:715px)]:px-4 [@media(max-width:605px)]:!px-2">
+    <footer className="flex  flex-col bg-footerBGColor px-10 py-10 [@media(max-width:715px)]:px-4 [@media(max-width:605px)]:!px-2">
       <div className="flex justify-between  gap-2">
         <div className="flex flex-col justify-between max-w-[317px]">
           <h1 className="text-[#E2E4E9] font-extrabold text-lg">
