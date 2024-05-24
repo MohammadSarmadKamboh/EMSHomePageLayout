@@ -145,8 +145,10 @@ const PricingPlan = () => {
               <span className="mover rounded-full" />
             </label>
           </div>
-
-          <p className="text-[#22C55E] text-[13px]">Save up to 17%</p>
+          {billedAnnually && (
+            <p className="text-[#22C55E] text-[13px]">Save up to 17%</p>
+          )}
+          {/* <p className="text-[#22C55E] text-[13px]">Save up to 17%</p> */}
         </div>
       </div>
 
