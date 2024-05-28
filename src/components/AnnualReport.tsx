@@ -1,4 +1,4 @@
-import teleWorkbBro1 from "../../public/teleWorkbBro1.png";
+import teleWorkbBro1 from "../../public/images/teleWorkbBro1.png";
 import Button from "./Button";
 
 const AnnualReport = () => {

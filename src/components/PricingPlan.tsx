@@ -1,5 +1,5 @@
 import { useState } from "react";
-import checkMark from "../../public/checkMark.png";
+import checkMark from "../../public/images/checkMark.png";
 import Button from "./Button";
 
 const plans = {

@@ -1,4 +1,4 @@
-import Frame from "../../public/Frame.png";
+import Frame from "../../public/images/Frame.png";
 import Button from "./Button";
 
 const EMSworks = () => {

@@ -1,4 +1,4 @@
-import Logo from "../../public/Logo.png";
+import Logo from "../../public/images/Logo.png";
 import Button from "./Button";
 
 const headerLinks = [
